@@ -1,0 +1,8 @@
+# Research protocol
+
+Frozen 2026-11-18. Synthetic, zero-dividend risk-neutral GBM with spot and strike $100, annual continuous rate 3%, no rebate, lower barrier continuously monitored from time 0 through expiry. Anchor H=95, volatility 25%, maturity one year. Exact GBM steps and shared innovations compare grid-only knockouts with conditional Brownian-bridge survival. Main estimand is the continuous down-and-out value. Baseline uses grid-only detection and the benchmark is the reflected transition density integrated analytically. Validation integrates a conditional survival function against an unreflected terminal Gaussian. Both use the same payoff. No empirical training split.
+
+Pilot uses 4 replications of 4,096 paths on 4 and 32 dates. Full anchor experiment uses 10 independent replications per cell, path counts 8,192 and 32,768 and grids 1, 4, 16, 64, 256. Robustness grid H={85,95,99}, volatility={15%,25%,40%}, maturity={0.25,1,2} uses 8 replications of 16,384 paths on 16 dates. Report signed mean error, mean path standard error, RMSE across replications, median runtime and path counts. Seeds are fixed from a master seed (3107) and cell indices. No excluding paths after results. Timings depend on environment.
+
+Separate runtime comparison at 16 dates on the anchor uses each method's independent timed pilot to choose an integer path count for a 0.10-second target per replication. Report actual runtime and error. A distinct contract monitors on 16 equally spaced dates including expiry, plus the time-zero eligibility test. Price it by sequential Gaussian quadrature and compare the Broadie–Glasserman–Kou barrier shift against that price. Refine quadrature from 600 to 1200 nodes to check sensitivity. 
+
