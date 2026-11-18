@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="455" viewBox="0 0 760 455" role="img">
+<title>Synthetic barrier call. RMSE vs runtime · 32,768 paths per replication</title>
+<rect width="760" height="455" fill="#fbfaf6"/>
+<g fill="#152637" font-family="Arial,sans-serif">
+<text x="25" y="34" text-anchor="start" font-size="23">Synthetic barrier call</text>
+<text x="25" y="57" text-anchor="start" font-size="13">RMSE vs runtime · 32,768 paths per replication</text>
+<path d="M90 355.0H735" stroke="#d9ddda"/>
+<text x="82" y="359.0" text-anchor="end" font-size="12">0</text>
+<path d="M90 302.0H735" stroke="#d9ddda"/>
+<text x="82" y="306.0" text-anchor="end" font-size="12">1.45</text>
+<path d="M90 249.0H735" stroke="#d9ddda"/>
+<text x="82" y="253.0" text-anchor="end" font-size="12">2.91</text>
+<path d="M90 195.99999999999997H735" stroke="#d9ddda"/>
+<text x="82" y="199.99999999999997" text-anchor="end" font-size="12">4.36</text>
+<path d="M90 143.0H735" stroke="#d9ddda"/>
+<text x="82" y="147.0" text-anchor="end" font-size="12">5.81</text>
+<path d="M90 89.99999999999994H735" stroke="#d9ddda"/>
+<text x="82" y="93.99999999999994" text-anchor="end" font-size="12">7.27</text>
+<text x="90.0" y="375" text-anchor="middle" font-size="12">0</text>
+<text x="218.99999999999997" y="375" text-anchor="middle" font-size="12">0.106</text>
+<text x="347.99999999999994" y="375" text-anchor="middle" font-size="12">0.212</text>
+<text x="477.0" y="375" text-anchor="middle" font-size="12">0.318</text>
+<text x="605.9999999999999" y="375" text-anchor="middle" font-size="12">0.424</text>
+<text x="735.0" y="375" text-anchor="middle" font-size="12">0.529</text>
+<text x="412" y="399" text-anchor="middle" font-size="14">Median seconds per replication</text>
+<text x="20" y="223" transform="rotate(-90 20 223)" text-anchor="middle" font-size="14">RMSE (USD)</text>
+<polyline points="91.53,124.57 95.32,194.79 105.56,265.23 168.44,307.05 417.12,329.81" stroke="#973e30" stroke-width="2" fill="none"/>
+<circle cx="91.53" cy="124.57" r="4" fill="#973e30"/>
+<circle cx="95.32" cy="194.79" r="4" fill="#973e30"/>
+<circle cx="105.56" cy="265.23" r="4" fill="#973e30"/>
+<circle cx="168.44" cy="307.05" r="4" fill="#973e30"/>
+<circle cx="417.12" cy="329.81" r="4" fill="#973e30"/>
+<path d="M95 429h18" stroke="#973e30" stroke-width="3"/>
+<text x="119" y="433" text-anchor="start" font-size="12">Grid only</text>
+<polyline points="91.84,353.42 98.05,352.69 118.32,352.16 237.88,351.57 710.19,353.40" stroke="#166c77" stroke-width="2" fill="none"/>
+<circle cx="91.84" cy="353.42" r="4" fill="#166c77"/>
+<circle cx="98.05" cy="352.69" r="4" fill="#166c77"/>
+<circle cx="118.32" cy="352.16" r="4" fill="#166c77"/>
+<circle cx="237.88" cy="351.57" r="4" fill="#166c77"/>
+<circle cx="710.19" cy="353.40" r="4" fill="#166c77"/>
+<path d="M295 429h18" stroke="#166c77" stroke-width="3"/>
+<text x="319" y="433" text-anchor="start" font-size="12">Brownian bridge</text>
+</g></svg>

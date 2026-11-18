@@ -1,0 +1,6 @@
+Python 3.14.0, NumPy 2.4.0, Windows-11-10.0.26200-SP0
+continuous_analytic=5.02941643
+continuous_quadrature=5.02941640
+discrete_coarse=7.48757712
+discrete_fine=7.48631710
+discrete_bgk_shift=7.43100060

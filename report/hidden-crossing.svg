@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="455" viewBox="0 0 760 455" role="img">
+<title>A crossing between observation dates. Synthetic path · five sampled values lie above the barrier</title>
+<rect width="760" height="455" fill="#fbfaf6"/>
+<g fill="#152637" font-family="Arial,sans-serif">
+<text x="25" y="34" text-anchor="start" font-size="23">A crossing between observation dates</text>
+<text x="25" y="57" text-anchor="start" font-size="13">Synthetic path · five sampled values lie above the barrier</text>
+<path d="M90 355.0H735" stroke="#d9ddda"/>
+<text x="82" y="359.0" text-anchor="end" font-size="12">86.8</text>
+<path d="M90 302.0H735" stroke="#d9ddda"/>
+<text x="82" y="306.0" text-anchor="end" font-size="12">96.5</text>
+<path d="M90 248.99999999999994H735" stroke="#d9ddda"/>
+<text x="82" y="252.99999999999994" text-anchor="end" font-size="12">106</text>
+<path d="M90 195.99999999999997H735" stroke="#d9ddda"/>
+<text x="82" y="199.99999999999997" text-anchor="end" font-size="12">116</text>
+<path d="M90 142.99999999999997H735" stroke="#d9ddda"/>
+<text x="82" y="146.99999999999997" text-anchor="end" font-size="12">126</text>
+<path d="M90 90.0H735" stroke="#d9ddda"/>
+<text x="82" y="94.0" text-anchor="end" font-size="12">135</text>
+<text x="90.0" y="375" text-anchor="middle" font-size="12">0</text>
+<text x="219.0" y="375" text-anchor="middle" font-size="12">0.2</text>
+<text x="348.0" y="375" text-anchor="middle" font-size="12">0.4</text>
+<text x="477.0" y="375" text-anchor="middle" font-size="12">0.6</text>
+<text x="606.0" y="375" text-anchor="middle" font-size="12">0.8</text>
+<text x="735.0" y="375" text-anchor="middle" font-size="12">1</text>
+<text x="412" y="399" text-anchor="middle" font-size="14">Time (years)</text>
+<text x="20" y="223" transform="rotate(-90 20 223)" text-anchor="middle" font-size="14">Spot (USD)</text>
+<polyline points="90.00,310.10 735.00,310.10" stroke="#973e30" stroke-width="2" fill="none"/>
+<path d="M95 429h18" stroke="#973e30" stroke-width="3"/>
+<text x="119" y="433" text-anchor="start" font-size="12">Barrier</text>
+<polyline points="90.00,282.76 95.04,306.90 100.08,313.33 105.12,326.56 110.16,338.60 115.20,314.42 120.23,328.24 125.27,317.84 130.31,329.17 135.35,331.40 140.39,317.35 145.43,315.52 150.47,292.91 155.51,277.91 160.55,260.29 165.59,262.98 170.62,265.20 175.66,268.70 180.70,264.22 185.74,248.99 190.78,232.35 195.82,240.89 200.86,224.48 205.90,212.73 210.94,199.70 215.98,207.10 221.02,213.06 226.05,210.37 231.09,204.90 236.13,223.48 241.17,239.96 246.21,241.89 251.25,242.02 256.29,247.14 261.33,244.09 266.37,257.20 271.41,262.69 276.45,269.38 281.48,254.61 286.52,245.33 291.56,270.51 296.60,274.55 301.64,253.43 306.68,284.21 311.72,278.83 316.76,278.21 321.80,282.14 326.84,281.71 331.88,291.25 336.91,294.86 341.95,289.12 346.99,299.14 352.03,315.64 357.07,322.93 362.11,313.34 367.15,320.20 372.19,305.20 377.23,289.01 382.27,277.76 387.30,294.38 392.34,292.85 397.38,277.20 402.42,260.04 407.46,270.32 412.50,280.03 417.54,274.59 422.58,279.30 427.62,283.49 432.66,280.28 437.70,276.54 442.73,265.28 447.77,261.36 452.81,246.69 457.85,250.41 462.89,239.30 467.93,256.64 472.97,270.56 478.01,264.95 483.05,260.90 488.09,256.91 493.12,255.53 498.16,250.61 503.20,265.31 508.24,271.05 513.28,267.96 518.32,281.01 523.36,282.14 528.40,283.46 533.44,293.70 538.48,280.40 543.52,289.18 548.55,272.24 553.59,275.34 558.63,284.51 563.67,279.36 568.71,267.76 573.75,271.57 578.79,270.55 583.83,248.98 588.87,226.60 593.91,239.27 598.95,221.96 603.98,207.78 609.02,195.68 614.06,178.01 619.10,172.21 624.14,150.05 629.18,122.80 634.22,138.11 639.26,130.50 644.30,125.84 649.34,131.70 654.38,154.88 659.41,159.28 664.45,170.82 669.49,209.31 674.53,220.69 679.57,205.11 684.61,198.85 689.65,184.57 694.69,188.14 699.73,159.37 704.77,187.12 709.80,181.51 714.84,172.21 719.88,175.16 724.92,192.11 729.96,208.87 735.00,228.02" stroke="#166c77" stroke-width="2" fill="none"/>
+<path d="M295 429h18" stroke="#166c77" stroke-width="3"/>
+<text x="319" y="433" text-anchor="start" font-size="12">Fine path</text>
+<circle cx="90.00" cy="282.76" r="4" fill="#172333"/>
+<circle cx="251.25" cy="242.02" r="4" fill="#172333"/>
+<circle cx="412.50" cy="280.03" r="4" fill="#172333"/>
+<circle cx="573.75" cy="271.57" r="4" fill="#172333"/>
+<circle cx="735.00" cy="228.02" r="4" fill="#172333"/>
+<path d="M495 429h18" stroke="#172333" stroke-width="3"/>
+<text x="519" y="433" text-anchor="start" font-size="12">Sampled dates</text>
+</g></svg>
